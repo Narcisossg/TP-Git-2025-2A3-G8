@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin quam lorem, hendrerit vehicula sem faucibus non. Quisque libero sapien, finibus a convallis ac, ultricies rhoncus justo. Aliquam iaculis, neque non faucibus accumsan, ex ante eleifend mi, maximus hendrerit eros sapien vitae ex. Donec elementum velit in nunc feugiat convallis. Aenean eu tincidunt neque. Pellentesque sit amet auctor lectus. In hac habitasse platea dictumst. Donec et augue vitae dolor tincidunt sollicitudin at id leo. Nam varius justo risus, et viverra nunc consectetur at. Curabitur ornare diam id mattis aliquet. Vestibulum ornare vulputate posuere. Nam at augue quis ex efficitur finibus. In hac habitasse platea dictumst. Curabitur commodo mauris id massa malesuada, eu accumsan purus lacinia. Duis bibendum lorem sed lacus sodales facilisis
+=======
+Si vous lisez ceci, vous êtes invité à jouer à Outer Wilds.
+Ainsi que d'écouter la musique The Hand de Annabelle Dinda.
+Enfin, je fais ma propagande pour FONTAINES DC
+>>>>>>> bab2da8 (feat/REYNAUD: Ajout de 3 lignes dans tp.md)
